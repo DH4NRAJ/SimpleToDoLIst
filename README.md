@@ -2,11 +2,12 @@
 Basic ToDOList Using PERN Stack 
 
 
+
 ##Features
 
--ToDoList
--DarkMode
--Edit and Delete Notes
+- ToDoList
+- DarkMode
+- Edit and Delete Notes
 
 ## Tech
 
