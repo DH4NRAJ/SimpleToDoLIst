@@ -1,7 +1,7 @@
 # SimpleToDoLIst
 Basic ToDOList Using PERN Stack 
 
-
+![demo](https://github.com/DH4NRAJ/SimpleToDoLIst/blob/master/demo.gif)
 
 ## Features
 
