@@ -28,7 +28,7 @@ cd server
 npm i
 ```
 
-create postgres database useing 
+create postgres database using 
 
 /server/todo.sql 
 
