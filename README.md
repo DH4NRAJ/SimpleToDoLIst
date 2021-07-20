@@ -40,7 +40,7 @@ nodemon index.js
 npm start
 ```
 
-### reference
+### Reference
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
