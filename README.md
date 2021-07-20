@@ -18,6 +18,7 @@ Basic ToDOList Using PERN Stack
 
 ## Installation
 
+clone git repo 
 
 ```sh
 cd client
@@ -25,6 +26,12 @@ npm i
 cd server
 npm i
 ```
+
+create postgres database useing 
+
+/server/todo.sql 
+
+
 Use two terminals
 
 ```sh
